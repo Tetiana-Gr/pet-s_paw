@@ -1,0 +1,14 @@
+:root {
+    --main--title--color: #303559;
+    --accent--color: #9B73ED;
+    --main--text--color:#303559;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5{
+    margin: 0;
+}
